@@ -1,4 +1,4 @@
-### JAVASCRIPTS 
+### ES6 Basics 
 #
 
 ***This project covers the below listed topics :***
